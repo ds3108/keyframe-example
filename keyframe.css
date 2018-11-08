@@ -1,0 +1,9 @@
+/* Ejemplo de animaciones */
+@keyframes nombreAnimacion {
+  from {
+      opacity:0; /* Reglas CSS con las que la animación comienza */
+  }
+  to {
+      opacity:1; /* Reglas CSS con las que la animación termina */
+  }
+}
